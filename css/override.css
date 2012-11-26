@@ -1,0 +1,12 @@
+.reveal section img {
+  margin: 15px;
+  border: 0;
+  box-shadow: none;
+  vertical-align: middle;
+}
+
+.grey {
+  color: #ACACAC;
+}
+
+
