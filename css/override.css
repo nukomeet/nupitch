@@ -6,7 +6,11 @@
 }
 
 .grey {
-  color: #ACACAC;
+  color: #BCBCBC;
 }
 
+.slides h6 {
+  font-size: 0.9em;
+  margin-bottom: 72px;
+}
 
